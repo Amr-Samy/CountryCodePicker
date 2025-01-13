@@ -225,7 +225,6 @@ const List<Map<String, String>> codes = [
   {"name": "العراق", "code": "IQ", "iso3Code": "IRQ", "dial_code": "+964"},
   {"name": "Éire", "code": "IE", "iso3Code": "IRL", "dial_code": "+353"},
   {"name": "Isle of Man", "code": "IM", "iso3Code": "IMN", "dial_code": "+44"},
-  {"name": "ישראל", "code": "IL", "iso3Code": "ISR", "dial_code": "+972"},
   {"name": "Italia", "code": "IT", "iso3Code": "ITA", "dial_code": "+39"},
   {"name": "Jamaica", "code": "JM", "iso3Code": "JAM", "dial_code": "+1876"},
   {"name": "日本", "code": "JP", "iso3Code": "JPN", "dial_code": "+81"},
