@@ -65,7 +65,6 @@ class _CountryLocalizationsDelegate
       "fr",
       "gl",
       "ha",
-      "he",
       "hi",
       "hr",
       "hu",
